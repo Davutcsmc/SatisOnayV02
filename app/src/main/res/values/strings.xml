@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SatisOnayV02</string>
+    <string name="urun_listesi">Ürün Listesi</string>
+    <string name="btnSatildi">Satıldı</string>
+</resources>
